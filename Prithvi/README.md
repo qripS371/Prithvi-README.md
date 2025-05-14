@@ -21,6 +21,8 @@ Productivity & Collaboration: Notion
 
 Car MPG Predictor: Developed a multivariate linear regression model from scratch in Python to predict car fuel efficiency (MPG) based on engine displacement, acceleration, cylinder count, horsepower, and vehicle weight. Implemented gradient descent optimization to minimize mean squared error, achieving accurate predictions (e.g., 17.73 predicted vs. 17.25 actual). Wrapped the model in a command-line interface for real-time training and prediction, serving as an educational tool for understanding linear regression and optimization.
 
+Python Ridge Regression House-Price Predictor: Built a robust house-price estimator using Ridge Regression on a multivariate dataset. Included full preprocessing with Pandas, modeling with scikit-learn, and visualization with Matplotlib. CLI-enabled for interactive predictions, it achieves strong performance (R² ≈ 0.84) and offers a practical baseline for regression problems with regularization.
+
 AI Expense Tracker: Built using Claude and Firebase, this tool showcases rapid prototyping capabilities.
 
 Interactive AI Games: Developed HTML/JS-based games integrating Grok for narrative-driven experiences.
