@@ -45,10 +45,6 @@ GitHub: github.com/qripS371
 
 YouTube: youtube.com/@priqs.360
 
-📍 Location
-
-Jamshedpur, Jharkhand, India
-
 📅 Availability
 
 Available for remote opportunities, with a preferred joining date as soon as possible. Committed for a minimum of the next 6 months.
