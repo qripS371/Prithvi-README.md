@@ -19,6 +19,8 @@ Productivity & Collaboration: Notion
 
 📚 Projects
 
+AI-Powered Stock & Cryptocurrency Price Predictor: Developed a machine learning-based system to extract, process, and forecast financial time series data for stocks and cryptocurrencies. Implemented technical indicators (e.g., RSI, MACD, EMA) and regression models to predict price movements, enabling data-driven investment decisions. Incorporated automated data pipeline, feature engineering, and backtesting for model validation.
+
 Car MPG Predictor: Developed a multivariate linear regression model from scratch in Python to predict car fuel efficiency (MPG) based on engine displacement, acceleration, cylinder count, horsepower, and vehicle weight. Implemented gradient descent optimization to minimize mean squared error, achieving accurate predictions (e.g., 17.73 predicted vs. 17.25 actual). Wrapped the model in a command-line interface for real-time training and prediction, serving as an educational tool for understanding linear regression and optimization.
 
 Python Ridge Regression House-Price Predictor: Built a robust house-price estimator using Ridge Regression on a multivariate dataset. Included full preprocessing with Pandas, modeling with scikit-learn, and visualization with Matplotlib. CLI-enabled for interactive predictions, it achieves strong performance (R² ≈ 0.84) and offers a practical baseline for regression problems with regularization.
